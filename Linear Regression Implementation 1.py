@@ -51,7 +51,6 @@ plt.show()
 
 # -- Direct Linear Regression implementation --
 
-#DIDNT WORK LAST TIME I TRIED
 # imports
 import numpy as np
 
